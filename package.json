@@ -1,0 +1,17 @@
+{
+  "name": "search_engine",
+  "version": "0.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rj",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "ejs": "^2.5.2",
+    "express": "^4.14.0",
+    "request": "^2.75.0"
+  }
+}
